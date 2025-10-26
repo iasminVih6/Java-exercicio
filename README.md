@@ -7,3 +7,6 @@ Este projeto permite ao usuário inserir três notas de um aluno, calcular a mé
 ## Sobre
 È um projeto simples, mas importante para um começo, onde estou aprendendo como funciona programação orietada a objetos.
 
+## Como usar
+1. Clone o repositório:
+
