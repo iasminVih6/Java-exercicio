@@ -12,10 +12,10 @@ public class Main {
         System.out.println("Digite a terceira nota: ");
         aluno.nota3 = sc.nextDouble();
         System.out.println();
-        System.out.println("Media final = " + aluno.mediaFinal());
+        System.out.println("Média final = " + aluno.mediaFinal());
 
         if (aluno.mediaFinal() < 60) {
-            System.out.println("SITUAÇÂO: REPROVADO!");
+            System.out.println("SITUAÇÃO: REPROVADO!");
             System.out.println("Pontos faltados = " + aluno.pontosFaltados());
         } else {
             System.out.println("APROVADO");
